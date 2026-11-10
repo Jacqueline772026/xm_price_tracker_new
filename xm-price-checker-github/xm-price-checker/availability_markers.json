@@ -1,0 +1,5 @@
+{
+  "_readme": "Add new wordings here (any case, accents optional). 'unavailable' is tested first. Used by every scraper via scrapers/matching.py. When the check report says 'layout-changed', copy a phrase from the 'Unrecognised card text' lines into the right list.",
+  "unavailable": [],
+  "available": []
+}

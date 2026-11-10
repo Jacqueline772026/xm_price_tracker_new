@@ -1,0 +1,48 @@
+{
+  "_note": "Search texts that were tuned by hand for one website and are kept as they are. Format: website -> TargetID -> exact search words. Everything not listed here is generated from the Products sheet by link_builder.py.",
+  "Electro.pl": {
+    "LEEDSA-4-128": "Redmi 17",
+    "LEEDSA-4-256": "Redmi 17",
+    "P12U-12-1T": "Xiaomi 17T Pro 5G 1T",
+    "MOSCOWP-8-256": "POCO X8 8 256"
+  },
+  "Avans": {
+    "LEEDSA-4-128": "Redmi 17",
+    "LEEDSA-4-256": "Redmi 17",
+    "LEEDSAP-6-128": "POCO C95 Pro 6 128",
+    "LEEDSAP-8-256": "POCO C95 Pro 8 256",
+    "MOSCOWP-8-256": "POCO X8 8 256"
+  },
+  "MEX": {
+    "P12U-12-1T": "Xiaomi 17T Pro 5G 1T",
+    "P16UP-8-256": "POCO M8 Pro 5G",
+    "P85-4-64": "Redmi Pad 2 9.7\" 4/64",
+    "MOSCOWP-8-256": "POCO X8 8 256"
+  },
+  "NEONET": {
+    "P12U-12-1T": "Xiaomi 17T PRO 5G",
+    "P85-4-64": "Redmi Pad 2 9.7\" 4/64",
+    "LEEDSAP-6-128": "POCO C95 Pro 6 128",
+    "LEEDSAP-8-256": "POCO C95 Pro 8 256",
+    "MOSCOWP-8-256": "POCO X8  8 256"
+  },
+  "MSH": {
+    "P85-4-64": "Redmi Pad 2 9.7\" 4/64",
+    "LEEDSAP-6-128": "POCO C95 Pro 6 128",
+    "LEEDSAP-8-256": "POCO C95 Pro 8 256",
+    "MOSCOWP-8-256": "POCO X8 8 256",
+    "P19AE-6-256": "RM Note 17 4G 6/256",
+    "P19AE-4-128": "Redmi Note 17 4G 4/128"
+  },
+  "XKOM": {
+    "P85-4-64": "Redmi Pad 2 9.7\" 4/64",
+    "LEEDSAP-6-128": "POCO C95 Pro 6 128",
+    "LEEDSAP-8-256": "POCO C95 Pro 8 256",
+    "MOSCOWP-8-256": "POCO X8 8 256"
+  },
+  "KTR": {
+    "LEEDSAP-6-128": "POCO C95 Pro 6 128",
+    "MOSCOWP-8-256": "POCO X8 8 256",
+    "P19AE-4-128": "Redmi Note 17"
+  }
+}
