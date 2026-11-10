@@ -1,0 +1,2 @@
+# xm_price_tracker_new
+应对网页排版更改问题进行优化添加预警显示
